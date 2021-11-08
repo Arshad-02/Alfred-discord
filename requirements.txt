@@ -1,5 +1,4 @@
 discord
 wikipedia
 bs4
-time
 lxml
